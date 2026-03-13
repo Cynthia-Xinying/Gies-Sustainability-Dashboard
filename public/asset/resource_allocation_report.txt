@@ -1,0 +1,76 @@
+
+═══════════════════════════════════════════════════════════════════
+            STRATEGIC RESOURCE ALLOCATION REPORT
+═══════════════════════════════════════════════════════════════════
+
+Executive Summary:
+This report provides data-driven recommendations for strategic faculty
+hiring and research investment based on growth trends, current resource
+allocation, and sustainability alignment.
+
+───────────────────────────────────────────────────────────────────
+
+KEY FINDINGS:
+
+📊 Total Publications: 1,899
+🌱 Sustainability Papers: 397 (20.9%)
+👥 Total Researchers: 143
+📈 Average Growth Rate: 42.5%
+
+───────────────────────────────────────────────────────────────────
+
+TOP 3 INVESTMENT PRIORITIES:
+
+1. Business Administration
+   ─────────────────────────────────────────────
+   Current Publications:    1024
+   Current Faculty:         73
+   Sustainability Focus:    23.8%
+   
+   Recommendation: PRIORITY HIRE - Expand sustainability research
+
+2. Finance
+   ─────────────────────────────────────────────
+   Current Publications:    269
+   Current Faculty:         28
+   Sustainability Focus:    37.9%
+   
+   Recommendation: Strategic investment in FinTech & ESG
+
+3. Accountancy
+   ─────────────────────────────────────────────
+   Current Publications:    300
+   Current Faculty:         38
+   Sustainability Focus:    10.7%
+   
+   Recommendation: Maintain excellence, support emerging areas
+
+───────────────────────────────────────────────────────────────────
+
+STRATEGIC INITIATIVES:
+
+1. Expand Sustainability Research
+   → Target: Increase sustainability publications by 25% in 2 years
+   → Focus departments: Finance, Business Administration
+   → Estimated investment: 3-5 new faculty positions
+
+2. Strengthen Emerging Areas
+   → Identify high-growth, low-resource areas
+   → Seed funding for interdisciplinary projects
+   → Estimated investment: $500K research grants
+
+3. Support Established Leaders
+   → Maintain excellence in mature research areas
+   → Fund graduate student positions
+   → Estimated investment: $300K RA support
+
+───────────────────────────────────────────────────────────────────
+
+ROI PROJECTIONS:
+
+Based on current trajectories:
+- New faculty hire in high-priority area: 15-20 pubs/5 years
+- Research grant investment: 3-5 additional pubs/year
+- Graduate student support: 8-12 pubs/year
+
+═══════════════════════════════════════════════════════════════════
